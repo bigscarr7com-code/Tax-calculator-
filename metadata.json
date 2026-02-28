@@ -1,0 +1,5 @@
+{
+  "name": "Ghana Tax Calculator",
+  "description": "Calculate your Ghana income tax (PAYE) and SSNIT contributions using the latest GRA tax brackets.",
+  "requestFramePermissions": []
+}
